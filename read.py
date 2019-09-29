@@ -2,7 +2,7 @@ import urllib3   #https://urllib3.readthedocs.io/en/latest/
 import json
 from texttable import Texttable
 http = urllib3.PoolManager()
-USER_API_KEY = "R5A5T2S3KHZVKKDT" #replace with your KEY (!!!this is not read key!!!)
+USER_API_KEY = "USER_KEY_HERE" #replace with your KEY (!!!this is not read key!!!)
 try:
     count = 1
     url1 = "https://api.thingspeak.com/channels.json?api_key=%s" %(USER_API_KEY)
