@@ -4,3 +4,7 @@ Simple python program to read data from your thingspeak account and display in a
 
 IMPORTANT!!
 replace the user key in line 5 with your own user key from thingspeak.
+
+Packages Required:
+1.urllib3
+2.Texttable
