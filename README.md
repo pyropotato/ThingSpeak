@@ -6,5 +6,4 @@ IMPORTANT!!
 replace the user key in line 5 with your own user key from thingspeak.
 
 Packages Required:
-1.urllib3
-2.Texttable
+urllib3 and Texttable
